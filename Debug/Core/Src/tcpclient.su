@@ -1,0 +1,5 @@
+../Core/Src/tcpclient.c:36:13:tcpinit_thread	24	static
+../Core/Src/tcpclient.c:141:6:tcpsend	32	static
+../Core/Src/tcpclient.c:151:13:tcptime_thread	16	static
+../Core/Src/tcpclient.c:169:6:tcpclient_init	16	static
+../Core/Src/tcpclient.c:176:6:BEEP	8	static
